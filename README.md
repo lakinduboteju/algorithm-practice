@@ -16,3 +16,7 @@ $ docker exec -it algorithms bash
 # Run following command and debug using Python Debugger in vscode
 $ poetry run python -Xfrozen_modules=off -m debugpy --listen 0.0.0.0:5678 --wait-for-client xxxx.py
 ```
+
+## Contents
+
+1. [Find ascending sub arrays](src/find_ascending_sub_arrays.py)
